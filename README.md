@@ -1,0 +1,3 @@
+# Kaggle Competition -- Digit Recognizer
+
+R script and i/o csv files for implementing digit recognizer of the kaggle competition. The benchmark method using the random forest approach gives accuracy over 95%. Will be updated ...
